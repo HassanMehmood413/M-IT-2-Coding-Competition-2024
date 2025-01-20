@@ -32,7 +32,6 @@ This repository contains my solutions to the problems I tackled during the M-IT-
         </tr> 
 </tbody>
 <table>
-<hr/>
 
 ---
 ![M-IT-2-Coding-Competition-2024](Images/active.png "UC Berkeley Logo")
