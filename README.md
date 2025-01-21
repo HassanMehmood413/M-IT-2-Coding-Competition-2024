@@ -41,7 +41,7 @@ This repository contains my solutions to the problems Our team tackled during th
 ```plaintext
 .
 ├── MIT Coding Contest/
-│   ├── Advance Round 1                        # Solution to the CALICOnstruction problem
+│   ├── Advance Round 1                        # Solution to the MITIT Advance Round one problem
 │   └── Advance Round 2 + Begineer Round       # For understanding the problem
 ├── Images/
 |   ├── Problems.png         # All problems
