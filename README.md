@@ -1,4 +1,4 @@
-# M-IT-2-Coding-Competition-2024
+# M-IT-2-Coding-Competition-2025
 
 This repository contains my solutions to the problems Our team tackled during the M-IT-2-Coding-Competition-2024. The competition was a thrilling experience filled with innovative and challenging problems. Below, you'll find a summary of the problems and the code implementations.
 
