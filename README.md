@@ -23,8 +23,8 @@ This repository contains my solutions to the problems I tackled during the M-IT-
                 </a> 
             </td>
             <td align="center">
-                <a href="">
-                    <img src="" width="100px;" alt="Tayabba Mustafa"/>
+                <a href="https://github.com/tayyaba-mustafa">
+                    <img src="http://avatars.githubusercontent.com/u/176796090?v=4" width="100px;" alt="Tayabba Mustafa"/>
                     <br />
                     <sub><b>Tayyaba Mustafa</b></sub>
                 </a> 
